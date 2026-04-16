@@ -1,5 +1,7 @@
 PASOS EN ORACLE XEPDB1
 
+DB_URL=jdbc:oracle:thin:@//localhost:1521/XEPDB1;DB_USER=crud_user;DB_PASSWORD=Crud123
+
 -- Crea un usuario nuevo en Oracle llamado crud_user
 CREATE USER crud_user
 
